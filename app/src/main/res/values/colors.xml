@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#8B7B7B</color>
+    <color name="colorPrimaryDark">#575050</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="selected">#43A047</color>
+    <color name="buttonColor">#D5D6D6</color>
+<!--    D5D6D6 was the color of unelected-->
+    <color name="black">#0E0505</color>
+</resources>

@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string name="welcomeTo">Welcome To</string>
+    <string name="hangman_Text">Hangman</string>
+    <string name="start_Text">Play</string>
+    <string name="catagorty">Category :</string>
+    <string name="back_Text">Back</string>
+    <string name="C">C</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+    <string name="p">P</string>
+    <string name="r">R</string>
+    <string name="q">Q</string>
+    <string name="s">S</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+    <string name="v">V</string>
+    <string name="w">W</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="aa">a</string>
+    <string name="start">Start</string>
+    <string name="next_Question">Next Question</string>
+    <string name="guess">Guess</string>
+    <string name="letters_Clicked_Title">Letters Clicked</string>
+    <string name="yes">Yes</string>
+    <string name="title">You have lost one life</string>
+    <string name="message">Would you like to try again</string>
+    <string name="no">No</string>
+    <string name="title2">You have lost all of your lives</string>
+    <string name="next_problom_message">You have complected this problem</string>
+    <string name="nextproblomquestion">would you like to continue to the next problem</string>
+    <string name="close">Close</string>
+    <string name="nextproblom">Next Problem</string>
+    <string name="home">Home</string>
+    <string name="level_Select">Level Select</string>
+    <string name="help_title">Help</string>
+    <string name="help_letter_title">Dear Gamer,</string>
+    <string name="help_letter_end">-Jack(App Developer)</string>
+    <string name="help_help_after_end">*Use  the menu in the top right hand corner to navigate*</string>
+    <string name="helptext">
+        This is the classic game of hangman. The goal of this game is to guess all of the letters in a
+        word before your lives run out. Every time you guess a correct letter by clicking the letter than guess
+        it will either appear instead of a blank or you will have lost a life. Your lives are represented by the
+        person\'s body parts. When you guess a letter wrong I will draw a body part to represent one life being lost
+        and when the person runs out of body parts you louse
+        To start to go to the level select and click the level you are on. When you complete a level you will be given a code to enter the next level.
+Have fun and good luck.
+    </string>
+    <string name="level_One">1</string>
+    <string name="level_two">2</string>
+    <string name="level_three">3</string>
+    <string name="level_four">4</string>
+    <string name="level_five">5</string>
+    <string name="level_six">6</string>
+    <string name="level_seven">7</string>
+    <string name="level_eight">8</string>
+    <string name="level_nine">9</string>
+    <string name="level_ten">10</string>
+    <string name="level_eleven">11</string>
+    <string name="level_twelve">12</string>
+    <string name="level_thirteen">13</string>
+    <string name="level_fourteen">14</string>
+    <string name="level_fifteen">15</string>
+    <string name="level_sixteen">16</string>
+    <string name="level_seventeen">17</string>
+    <string name="level_eighteen">18</string>
+    <string name="level_nineteen">19</string>
+    <string name="level_twenty">20</string>
+    <string name="level_twentyone">21</string>
+    <string name="level_twentytwo">22</string>
+    <string name="level_twentythree">23</string>
+    <string name="level_twentyfour">24</string>
+    <string name="level_twentyfive">25</string>
+
+
+    <string name="level_Compleate">You have complected this level</string>
+    <string name="code_for_secound_level">The code for level 2 is "places". Continue?</string>
+    <string name="code_forThird_Level">The code for level 3 is "moviesandtv". Continue?</string>
+    <string name="code_for_forth_level">The code for level 4 is "marvel". Continue?</string>
+    <string name="code_for_fifth_level">The code for level 5 is "sports". Continue?</string>
+    <string name="code_for_sixth_level">The code for level 6 is "companies". Continue?</string>
+    <string name="code_for_seventh_level">The code for level 7 is "book". Continue?</string>
+    <string name="code_for_eigth_level">The code for level 8 is "clothing". Continue?</string>
+    <string name="code_for_ninth_level">The code for level 9 is "presidents". Continue?</string>
+    <string name="code_for_tenth_level">The code for level 10 is "movietitles". Continue?</string>
+    <string name="code_for_eleventh_level">The code for level 11 is "cartoons". Continue?</string>
+    <string name="code_for_twelfth_level">The code for level 12 is "bourdgames". Continue?</string>
+    <string name="code_for_thirteenth_level">The code for level 13 is "sports". Continue?</string>
+    <string name="code_for_fourteenth_level">The code for level 14 is "Super Heroes". Continue?</string>
+    <string name="code_for_fifteenth_level">The code for level 15 is "emotions". Continue?</string>
+    <string name="code_for_sixteenth_level">The code for level 16 is "schoolclasses". Continue?</string>
+    <string name="code_for_seventeenth_level">The code for level 17 is "schoolsupplies". Continue?</string>
+    <string name="code_for_eighteenth_level">The code for level 18 is "weather". Continue?</string>
+    <string name="code_for_nineteeth_level">The code for level 19 is "vacationlocations". Continue?</string>
+    <string name="code_for_20th_level">The code for level 20 is "emojis". Continue</string>
+    <string name="code_for_21th_level">The code for level 21 is "videogames". Continue</string>
+    <string name="code_for_22th_level">The code for level 22 is "animals". Continue</string>
+    <string name="code_for_23th_level">The code for level 23 is "states". Continue</string>
+    <string name="code_for_24th_level">The code for level 24 is "countries". Continue</string>
+    <string name="code_for_25th_level">The code for level 25 is "booktitles". Continue</string>
+    <string name="you_have_finished">That was the final level. Go home? </string>
+
+
+    <string name="tyep_Code">Type the code you were given at the end of the last level</string>
+    <string name="enter">Enter</string>
+    <string name="next_problom">Click next problem</string>
+    <string name="hang_thing">The man that shows how many lives you have</string>
+    <string name="help_icon">The help Icon</string>
+    <string name="atribution">Sound effects obtained from https://www.zapsplat.com“</string>
+    <string name="music_switch_text">Music</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string name="save">Save</string>
+    <string name="stop_Text">Stop</string>
+</resources>
